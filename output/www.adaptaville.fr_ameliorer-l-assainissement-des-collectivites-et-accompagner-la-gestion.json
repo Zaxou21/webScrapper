@@ -1,0 +1,20 @@
+{
+  "Url": "https://www.adaptaville.fr/ameliorer-l-assainissement-des-collectivites-et-accompagner-la-gestion",
+  "Type_Initiative": "Source d'information",
+  "Lien_image": null,
+  "Description": "L'Agence de l'Eau Seine-Normandie propose des subventions pour améliorer l'assainissement des collectivités et gérer les eaux de pluie, en visant le bon état des eaux et l'hygiène publique. Les actions financées incluent l'épuration des eaux usées, la collecte et le transport, la gestion des eaux de pluie, et des mesures d'adaptation au changement climatique.",
+  "Aleas": [
+    "Submersion marine et érosion côte",
+    "Inondation pluviale",
+    "Transversal"
+  ],
+  "Type_Porteur_Initiative": "État et opérateur public",
+  "Nom_porteur": "Agence de l'Eau Seine-Normandie",
+  "Localisation": [
+    "Seine-Normandie"
+  ],
+  "Maturite": "Déployé",
+  "Commentaires": "Les aides visent à réduire les polluants, gérer les eaux de pluie, et préserver la biodiversité. Les projets doivent intégrer l'adaptation au changement climatique (montée du niveau marin, sécheresses, inondations).",
+  "email": null,
+  "Domain": "Eau"
+}
