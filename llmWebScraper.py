@@ -16,7 +16,7 @@ from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, CacheMode
 from crawl4ai.extraction_strategy import LLMExtractionStrategy
 from crawl4ai.content_filter_strategy import PruningContentFilterLXML
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
-from formatFiche import FicheInitiative
+from schema import FicheInitiative
 
 
 # Fonction pour lire les urls dans le fichier "urls.txt"

@@ -2,11 +2,10 @@
   "Url": "https://www.adaptaville.fr/ameliorer-l-assainissement-des-collectivites-et-accompagner-la-gestion",
   "Type_Initiative": "Source d'information",
   "Lien_image": null,
-  "Description": "L'Agence de l'Eau Seine-Normandie propose des subventions pour améliorer l'assainissement des collectivités et gérer les eaux de pluie, en visant le bon état des eaux et l'hygiène publique. Les actions financées incluent l'épuration des eaux usées, la collecte et le transport, la gestion des eaux de pluie, et des mesures d'adaptation au changement climatique.",
+  "Description": "L'Agence de l'Eau Seine-Normandie propose des subventions pour améliorer l'assainissement des collectivités et gérer les eaux de pluie, en visant le bon état des eaux et l'hygiène publique. Les aides financent des projets d'épuration, de collecte des eaux usées, de gestion des eaux pluviales et de désimperméabilisation des sols.",
   "Aleas": [
-    "Submersion marine et érosion côte",
-    "Inondation pluviale",
-    "Transversal"
+    "Sécheresse",
+    "Submersion marine et érosion côtière"
   ],
   "Type_Porteur_Initiative": "État et opérateur public",
   "Nom_porteur": "Agence de l'Eau Seine-Normandie",
@@ -14,7 +13,7 @@
     "Seine-Normandie"
   ],
   "Maturite": "Déployé",
-  "Commentaires": "Les aides visent à réduire les polluants, gérer les eaux de pluie, et préserver la biodiversité. Les projets doivent intégrer l'adaptation au changement climatique (montée du niveau marin, sécheresses, inondations).",
+  "Commentaires": "Les aides sont destinées aux maîtres d'ouvrage publics ou privés. Les projets doivent intégrer une logique d'adaptation au changement climatique, notamment en tenant compte de la montée du niveau marin et de la diminution des débits des cours d'eau.",
   "email": null,
   "Domain": "Eau"
 }
